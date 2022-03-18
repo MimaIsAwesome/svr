@@ -8369,20 +8369,25 @@ a[data-toggle="collapse"] {
 .subscribe-form .form-control {
   background: #4897fc; }
 
+.pg-background{
+  background-image: url("https://www.qs.com/wp-content/uploads/2019/11/virtual-reality-headset-graphic.jpg");
+  background-size: 100% 20%;
+}
+
 .bg-gray{
   background: #bbbbbb;
 }
 
 .bg-steps {
-  background: #868686;
+  background: rgba(86, 86, 86, 0.85);
 }
 
 .bg-steps-info {
-  background: #5b5252;
+  background: rgba(31, 31, 31, 0.85);
 }
 
 .bg-steps-content {
-  background: #cbb9b9;
+  background: rgba(0, 0, 0, 0.85);
 }
 
 .white{
@@ -8395,6 +8400,7 @@ a[data-toggle="collapse"] {
 
 .border{
   border: 1px;
+  color: white;
 }
 
 .txt-black{
@@ -8408,4 +8414,17 @@ opacity:0.6;         //This grays it out to look disabled
 
 .dark-gray{
   color: #645c5c;
+}
+
+.round{
+  border-radius: 50px;
+}
+
+.fs-small{
+  font-size: 2rem;
+}
+
+.bg-home{
+  background-image: url("https://www.forbesindia.com/media/images/2021/Nov/img_170999__augmentedreality_bg.jpg");
+  background-size: 100% 100%;
 }
