@@ -8428,3 +8428,13 @@ opacity:0.6;         //This grays it out to look disabled
   background-image: url("https://www.forbesindia.com/media/images/2021/Nov/img_170999__augmentedreality_bg.jpg");
   background-size: 100% 100%;
 }
+.excersise1-background{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+  rgba(0, 0, 0, 0.5)), url("https://wallpapersmug.com/large/31bd25/laser-colorful-dots-abstract.jpg");
+  background-size: 100% 20%;
+}
+
+.bg-goals{
+  background: rgba(255, 255, 255, 0.85);
+
+}
